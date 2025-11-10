@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Apple Scab
+  1: Black Rot
+  2: Flyspeck
+  3: Fresh Apple
